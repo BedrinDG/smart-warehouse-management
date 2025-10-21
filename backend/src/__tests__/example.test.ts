@@ -1,6 +1,5 @@
 import request from "supertest";
 import { app, httpServer } from "../server";
-import {describe} from "node:test";
 
 afterAll((done) => {
     httpServer.close(done); // корректно закрываем сервер после теста
