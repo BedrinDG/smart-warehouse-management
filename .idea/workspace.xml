@@ -47,6 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs.jest.jest_package": "C:/Users/zaq06/Documents/Хакатоны/smart-warehouse/backend/node_modules/jest",
     "nodejs_package_manager_path": "npm",
+    "npm.test.executor": "Run",
     "ts.external.directory.path": "C:\\Users\\zaq06\\Documents\\Хакатоны\\smart-warehouse\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -96,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761034917325</updated>
       <workItem from="1761034918493" duration="599000" />
-      <workItem from="1761079781279" duration="1005000" />
+      <workItem from="1761079781279" duration="1939000" />
     </task>
     <servers />
   </component>
